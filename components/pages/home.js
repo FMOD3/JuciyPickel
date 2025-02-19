@@ -1,5 +1,8 @@
 export default function HomePage() {
     return (
-        <p>Home</p>
-    )
+        <>
+            <h1>Example Title</h1>
+            <p>This is a short example paragraph.</p>
+        </>
+    );
 }
