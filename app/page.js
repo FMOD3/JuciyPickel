@@ -62,7 +62,7 @@ export default function Home() {
                                 </div>
                             );
                         })}
-                        <iframe src="https://example.com" width="100%" height="500px" title="Example" className="mt-4 border rounded"></iframe>
+                        <iframe src="https://example4.com" width="100%" height="500px" title="Example" className="mt-4 border rounded"></iframe>
                     </div>
                 </div>
             </Suspense>
